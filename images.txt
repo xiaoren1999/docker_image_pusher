@@ -1,1 +1,1 @@
-centos:7
+php.rpm
