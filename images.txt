@@ -1,3 +1,2 @@
-cadvisor:v0.49.1
 prom/prometheus:v2.53.0
 prom/alertmanager:v0.27.0
