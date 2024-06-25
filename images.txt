@@ -1,3 +1,4 @@
-grafana/loki:3.0.0
-grefana/promtail:3.0.0
-grafana/grafana:11.0.0
+prom/node-exporter:v1.8.1
+Cadvisor:v0.49.1
+prom/prometheus:v2.53.0
+prom/alertmanager:v0.27.0
