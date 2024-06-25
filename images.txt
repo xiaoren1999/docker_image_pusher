@@ -1,2 +1,1 @@
-prom/prometheus:v2.53.0
-prom/alertmanager:v0.27.0
+cadvisor:v0.49.1
