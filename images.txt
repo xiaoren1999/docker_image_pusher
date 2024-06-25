@@ -1,1 +1,1 @@
-prom/node-exporter:v1.8.1
+Cadvisor:v0.49.1
