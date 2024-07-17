@@ -1,1 +1,1 @@
-php:10-fpm
+ingress-nginx-controller:v1.10.1
